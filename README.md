@@ -3,19 +3,25 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - 
-<h2>📺 Certifications</h2>
+    
 
-[Actively Enrolled in Google Cyber Security Course](https://www.coursera.org/google-certificates/cybersecurity-certificate?gwg_ad_id=GCLID--Cj0KCQiAwOe8BhCCARIsAGKeD57tY0XpbdHlPl2TMhm01kN1U3Cwf5P8CgfC8qGLHfEn3qNoMCgzF9YaAnG0EALw_wcB)
+<h2>🔭 I’m currently working on</h2>
+  
+  - [Cyber Security Certification](https://grow.google/certificates/cybersecurity/)
+  - [Network Fundimentals](https://learningnetwork.cisco.com/s/packet-tracer-alternative-lab-solutions)
+  - [TryHackMe](https://tryhackme.com/p/ewtonalbion)
 
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+ <h2>🤔 I’m looking for help with<h2/>
+   
+  -Mentorship
+   -Networking
+   -Learning
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AlbionEwton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AlbionEwton | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [linkedin]: https://https://www.linkedin.com/in/albion-ewton
