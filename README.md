@@ -1,10 +1,5 @@
 <h1>Hi, I'm Ryan! 
-<h2>👨‍💻 Cyber Security Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-    
-
+  
 <h2>🔭 I’m currently working on</h2>
   
   - [Cyber Security Certification](https://grow.google/certificates/cybersecurity/)
@@ -22,10 +17,12 @@
 
 [<img align="left" alt="AlbionEwton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AlbionEwton | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AlbionEwton | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
 [linkedin]: https://https://www.linkedin.com/in/albion-ewton
 [Instagram]: https://www.instagram.com/ewtonalbion/
+[Facebook]: https://www.facebook.com/ryan.ewton.7
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
